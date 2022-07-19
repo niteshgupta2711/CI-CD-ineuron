@@ -32,3 +32,6 @@ check for github actions
  if its failed go to actions re run jobs
  ```
  add your secrets in git hub secrets
+ ```
+ as soon as changes are commited to this branch perform this action
+ ```
