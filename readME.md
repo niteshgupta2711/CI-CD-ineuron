@@ -1,0 +1,3 @@
+--> git init
+--> By default we are at master branch
+--> git checkout b dev
