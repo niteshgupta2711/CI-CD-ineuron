@@ -3,3 +3,4 @@
 --> git checkout b dev
 --> you create branch form nother branch otget code from other code
 --> merge conflicts occurs when there are changes in same line in same file
+--> conda create --prefix name python=3.9.*
