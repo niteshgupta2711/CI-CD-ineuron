@@ -1,0 +1,5 @@
+ci-cd/
+.git/
+data/
+.gitignore
+
