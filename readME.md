@@ -13,3 +13,22 @@
 ''' file:application object'''
 '''
 search for github action o  internet you will get many github action as soon as changes '''
+How to manage secrets in github
+```
+got to your repo, look for settings and then secrtes, action
+
+```
+from actions
+'''
+add secrets.heroku_email, all othe secrets to it as keu value pair
+```
+``` secrets.key```
+
+```
+go to your repo actions
+```
+check for github actions
+```
+ if its failed go to actions re run jobs
+ ```
+ add your secrets in git hub secrets
