@@ -45,3 +45,17 @@ check for github actions
  ```
  select a function click on F12 you will go to a lib in python module
  ```
+ ```
+ we are writing a package for entire pipeline
+ ```
+ '''
+ housing created here is package writen for pipeline
+ ```
+ ``` 
+ when you write pip install -e . all the .py files in dirs/subdirs etc in housing package are pi=ointing to the base dir```
+ ```
+ a constant dir is created where all the constant are stored with respect to pipeline
+ ```
+ ```
+ store all the constants from config.yaml to constants.py as key so thst it is easy to work or get suggestions when required
+
