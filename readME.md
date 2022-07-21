@@ -36,4 +36,12 @@ check for github actions
  ```
  python setup.py install
  ```
- 
+ ```
+ pip install -e . installs packages from setup.py
+ '''
+ ```
+ Now housing is a package with other lot of packages
+ ```
+ ```
+ select a function click on F12 you will go to a lib in python module
+ ```

@@ -13,9 +13,11 @@ def get_requirements() -> List[str]:
 
 HYPHEN_E_DOT='-e .'
 setup(name='housing',
-       version='0.0.1',
+       version='0.0.6',
        description='housing project',
        author=AUTHOR_NAME,
        author_email=AUTHOR_EMAIL,
-       packages=['housing'],
+       packages=find_packages(),   #['housing'], # find packages is a function that finds all the folders with __init__ to identify it as package
        install_requires=get_requirements())
+
+       # -e . will  install all the folders with __init__.py files
